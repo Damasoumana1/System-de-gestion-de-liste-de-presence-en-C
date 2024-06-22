@@ -1,0 +1,18 @@
+ID: 1
+Name: YARO
+Class: CS25
+Attendance: A
+Course: NETWORK
+-----------------------
+ID: 2
+Name: DAMA
+Class: CS25
+Attendance: P
+Course: SCIENCE
+-----------------------
+ID: 3
+Name: ZOUNGRANA
+Class: CS25
+Attendance: A
+Course: BUSINESS
+-----------------------
